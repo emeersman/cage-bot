@@ -1,0 +1,3 @@
+This is a custom Slack bot written to be integrated into a team chat. It should remain private until the keys specific to that chat are removed. The best functionality of the bot is the ability to display random images of Nicolas Cage. When the user asks the bot (named @cage) "@cage image me X", the bot will search Google for images relating to Nicolas Cage and X. A random image from this search will be displayed in the chat.
+
+![hey there][http://assets2.ignimgs.com/2014/07/30/con-air-1280djpg-0d2359_1280w.jpg]
