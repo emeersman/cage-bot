@@ -4,7 +4,7 @@ from slackclient import SlackClient
 
 BOT_NAME = 'cage'
 
-token = 'xoxb-18542847283-QG1ykRGyUF7tLgXMkD7sBoNH'
+token = 'your-token-here'
 
 if __name__ == "__main__":
     response = urllib2.urlopen("https://slack.com/api/users.list?token=" + token)

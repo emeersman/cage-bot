@@ -3,8 +3,7 @@ from slackclient import SlackClient
 from bs4 import BeautifulSoup
 
 # starterbot's ID as an environment variable
-# BOT_ID = os.environ.get("BOT_ID")
-BOT_ID = "U0JFYQX8B"
+BOT_ID = "bot-id-here"
 
 # constants
 AT_BOT = "<@" + BOT_ID + ">"
